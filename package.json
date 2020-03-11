@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "body-parser": "^1.0.2",
-    "browserify": "~3.32.1",
+    "browserify": "~5.12.2",
     "errorhandler": "^1.0.1",
     "express": "4.x",
     "jade": "^1.8.2",
